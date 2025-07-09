@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0238-product-of-array-except-self](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
