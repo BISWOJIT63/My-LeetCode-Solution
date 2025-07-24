@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0042-trapping-rain-water) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0493-reverse-pairs) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
