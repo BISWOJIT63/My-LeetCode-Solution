@@ -27,15 +27,8 @@ class Solution {
 
         private void nQueen(int row,String [][] board,int n){
             if(n == row){
-               List<String> temp = new ArrayList<>();
-               for (int i = 0; i < n; i++) {
-               StringBuilder sb = new StringBuilder();
-               for (int j = 0; j < n; j++) {
-               sb.append(board[i][j]);
-            }
-         temp.add(sb.toString());
-        }
-        ans.add(temp);
+               ans.add(arrayToList(board,n));
+               return;
      }
             for(int i = 0; i < n; i++){
                 if(isSafe(row,i,board,n)){
@@ -45,4 +38,16 @@ class Solution {
                 }
             }
         }
+        private List<String> arrayToList(String [][]board,int n)
+        {
+            List<String> temp = new ArrayList<>();
+               for (int i = 0; i < n; i++) {
+               StringBuilder sb = new StringBuilder();
+               for (int j = 0; j < n; j++) {
+               sb.append(board[i][j]);
+            }
+         temp.add(sb.toString());
+        }
+        return temp;
+    }
 }
