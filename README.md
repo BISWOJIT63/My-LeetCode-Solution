@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0443-string-compression) |
+| [0908-middle-of-the-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2662-check-knight-tour-configuration](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2662-check-knight-tour-configuration) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
