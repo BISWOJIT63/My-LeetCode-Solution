@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0908-middle-of-the-linked-list) |
+## Math
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
