@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2662-check-knight-tour-configuration](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2662-check-knight-tour-configuration) |
+| [3227-find-missing-and-repeated-values](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [3227-find-missing-and-repeated-values](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [2662-check-knight-tour-configuration](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2662-check-knight-tour-configuration) |
+| [3227-find-missing-and-repeated-values](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3227-find-missing-and-repeated-values](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
