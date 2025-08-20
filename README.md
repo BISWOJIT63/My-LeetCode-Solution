@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0050-powx-n) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3227-find-missing-and-repeated-values](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0229-majority-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
