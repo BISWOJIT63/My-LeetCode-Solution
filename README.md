@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0169-majority-element) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
