@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0039-combination-sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0088-merge-sorted-array) |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
