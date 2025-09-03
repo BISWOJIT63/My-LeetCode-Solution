@@ -4,11 +4,15 @@ class Solution {
         int right = height.length-1;
         int maxArea = 0;
         while(left < right){
-            int curArea =Math.min(height[left],height[right])*(right-left);
-            maxArea = Math.max(maxArea,curArea);
-            if(height[left] <= height[right]){
+            int curHeight = height[left]<height[right]?height[left]:height[right];
+            int curArea =curHeight*(right-left);
+            if(maxArea < curArea){
+                maxArea = curArea;
+            }
+            while(left < right && height[left]<=curHeight){
                 left++;
-            }else{
+            }
+            while(left < right && height[right]<=curHeight){
                 right--;
             }
         }
