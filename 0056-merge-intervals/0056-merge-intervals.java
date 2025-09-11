@@ -1,25 +1,18 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
+       LinkedList <int[]> ans = new LinkedList<>();
 
-        int n = intervals.length;
-        Arrays.sort(intervals,(a,b)->Integer.compare(a[0],b[0]));//sort the array
-        List<int[]> res = new ArrayList<>();
-        //if there is only one interval then it return only that interval
-        if(n == 1) return intervals;
-        //check the overlap condition
-        //by iterating all elements 
-        for(int[] interval : intervals){
-            if(res.size() == 0) res.add(interval);
-            else{
-                int[] prevInterval = res.get(res.size()-1);
-                if(prevInterval[1] >= interval[0]){
-                    prevInterval[1] = Math.max(prevInterval[1],interval[1]);
-                }
-                else{
-                    res.add(interval);
-                }
-            }            
+        //sorting interval according to the 1st index
+        Arrays.sort(intervals,(a,b)->(a[0]-b[0]));
+
+        //check individual intervals and check condition
+        for(int[] interval:intervals){
+            if(ans.isEmpty() || ans.getLast()[1]<interval[0]){
+                ans.add(interval);
+            }else{
+                ans.getLast()[1] = Math.max(interval[1],ans.getLast()[1]);
+            }
         }
-        return res.toArray(new int[res.size()][]) ;
+        return ans.toArray(new int[ans.size()][2]);
     }
 }
