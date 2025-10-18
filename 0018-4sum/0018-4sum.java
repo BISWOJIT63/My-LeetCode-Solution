@@ -1,43 +1,39 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
-        int n = nums.length;
-        if(n < 4){
-            return new ArrayList<>();
-        }
         Arrays.sort(nums);
         List<List<Integer>> ans = new ArrayList<>();
-        for(int i = 0; i < nums.length-3; i++){
-            if(i > 0 && nums[i] == nums[i-1]){
-                continue;
-            }
-            //these 2 line are aditional line for run faster
-            if((long)nums[i]+nums[i+1]+nums[i+2]+nums[i+3] > target) break;
-            if((long) nums[i]+nums[n-1]+nums[n-2]+nums[n-3] < target) continue;
-
-            for(int j = i+1; j< nums.length-2; j++){
-                if(j > i+1 && nums[j] == nums[j-1]){
-                continue;
-            }
-            if((long)nums[i]+nums[j]+nums[j+1]+nums[j+2] > target) break;
-            if((long) nums[i]+nums[j]+nums[n-1]+nums[n-2] < target) continue;
-
-            int k = j+1;
-            int l = nums.length-1;
-            while(k < l){
-                long sum =(long) nums[i]+nums[j]+nums[k]+nums[l];
-                if(sum == target){
-                  ans.add(Arrays.asList(nums[i], nums[j], nums[k], nums[l]));
-                  while(k < l && nums[k] == nums[k+1]) k++;
-                  while(k < l && nums[l] == nums[l-1]) l--;
-                  k++;
-                  l--;
-                }else if(sum < target){
-                    k++;
+        for(int p1 = 0; p1 < nums.length - 2; p1++){
+            if( p1 > 0 && nums[p1] == nums[p1-1]) continue;
+            for(int p2 = p1+1; p2 < nums.length - 1; p2++){
+            if( p2 > p1+1 && nums[p2] == nums[p2-1]) continue;
+            int p3 = p2+1;
+            int p4 = nums.length-1;
+            while(p3 < p4 ){
+                long sum = nums[p1]+nums[p2]+nums[p3]+nums[p4];
+                if(sum < target){
+                    p3++;
+                }
+                else if(sum > target){
+                    p4--;
                 }else{
-                    l--;
+                   List<Integer> l = new ArrayList<>();
+                   l.add(nums[p1]);
+                   l.add(nums[p2]);
+                   l.add(nums[p3]);
+                   l.add(nums[p4]);
+                   ans.add(l);
+                   p3++;
+                   p4--;
+                   while(p3 < p4 && nums[p3] == nums[p3-1]){
+                    p3++;
+                   }
+                   while(p3 < p4 && nums[p4] == nums[p4+1]){
+                    p4--;
+                   }
+                   
                 }
             }
-            }
+        }
         }
         return ans;
     }
