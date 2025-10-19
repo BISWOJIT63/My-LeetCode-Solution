@@ -1,18 +1,20 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-       LinkedList <int[]> ans = new LinkedList<>();
-
-        //sorting interval according to the 1st index
-        Arrays.sort(intervals,(a,b)->(a[0]-b[0]));
-
-        //check individual intervals and check condition
-        for(int[] interval:intervals){
-            if(ans.isEmpty() || ans.getLast()[1]<interval[0]){
-                ans.add(interval);
-            }else{
-                ans.getLast()[1] = Math.max(interval[1],ans.getLast()[1]);
+        Arrays.sort(intervals,(a,b)->Integer.compare(a[0],b[0]));
+       List<int[]> merged = new ArrayList<>();
+        for(int i = 0; i < intervals.length; i++){
+            int start = intervals[i][0];
+            int end = intervals[i][1];
+            int j = i+1;
+            while(j < intervals.length && end >= intervals[j][0]){
+                end = Math.max(end, intervals[j][1]);
+                j++;
             }
+           merged.add(new int[]{start, end});
+            i = j-1;
         }
-        return ans.toArray(new int[ans.size()][2]);
+        
+        return merged.toArray(new int[merged.size()][]) ;
     }
+    
 }
