@@ -1,36 +1,41 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
         int m = matrix.length;
+        List<Integer> l = new ArrayList<>();
         int n = matrix[0].length;
-        List<Integer> spiralMatrix = new ArrayList<>();
-        int top = 0;
-        int down = m-1;
-        int right = n-1;
-        int left = 0;
+        int sr = 0;
+        int sc = 0;
+        int er = m-1;
+        int ec = n-1;
+        while(sr <= er && sc <= ec){
+            //right
+            for(int i = sc; i <= ec ; i++){
+                l.add(matrix[sr][i]);
+            }
+            sr++;
+            //down
+            for(int i = sr; i <= er; i++){
+                l.add(matrix[i][ec]);
+            }
+            ec--;
 
-        while(top <= down && left <= right ){
-            for(int i = left; i <= right ; i++){
-                spiralMatrix.add(matrix[top][i]);
+            //left
+            if(er >= sr){
+                for(int i = ec; i >= sc; i--){
+                l.add(matrix[er][i]);
             }
-            top++;
-            for(int i = top; i <= down ; i++){
-                spiralMatrix.add(matrix[i][right]);
+            er--;
+
             }
-            right--;
-            if(top <= down){
-                for(int i = right; i >= left ; i--){
-                spiralMatrix.add(matrix[down][i]);
-             }
-            }
-            down--;
-            if(left <= right){
-                for(int i = down; i >= top ; i--){
-                spiralMatrix.add(matrix[i][left]);
-                }
-            }
-            left++;
             
+            //up
+            if(ec >= sc ){
+                for(int i = er; i >= sr; i--){
+                    l.add(matrix[i][sc]);
+                }
+                sc++;
+            }
         }
-        return  spiralMatrix;
+        return l;
     }
 }
