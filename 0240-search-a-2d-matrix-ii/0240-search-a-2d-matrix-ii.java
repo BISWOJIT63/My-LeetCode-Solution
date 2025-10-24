@@ -1,17 +1,19 @@
 class Solution {
-    public boolean searchMatrix(int[][] matrix, int target) {
-        int m = matrix.length;
-        int n = matrix[0].length;
-        int row = 0;
-        int col = n-1;
-        while(row < m && col >= 0){
-            int curElement = matrix[row][col];
-            if( curElement == target){
-                return true;
-            }else if( curElement < target){
-                row++;
-            }else{
-                col--;
+    public boolean searchMatrix(int[][] nums, int tar) {
+        int n = nums.length;
+        for(int i = 0; i < n; i++){
+            int si = 0;
+            int ei = nums[i].length-1;
+            
+            while(si <= ei){
+                int mid = si+(ei-si)/2;
+                if(nums[i][mid] == tar){
+                    return true;
+                }else if(nums[i][mid] > tar){
+                    ei = mid-1;
+                }else{
+                    si = mid+1;
+                }
             }
         }
         return false;
