@@ -39,12 +39,12 @@ class Solution {
         int j = 0;
         int k = si;
         while(i < n1 && j < n2){
-            if(L[i] > R[j]){
-                arr[k] = R[j]; 
-                j++;
-            }else{
-                arr[k] = L[i];
+            if(L[i] <= R[j]){
+                arr[k] = L[i]; 
                 i++;
+            }else{
+                arr[k] = R[j];
+                j++;
             }
             k++;
         }
