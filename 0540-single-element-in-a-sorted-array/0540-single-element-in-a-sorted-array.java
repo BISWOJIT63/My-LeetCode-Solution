@@ -1,14 +1,20 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        int i = 0;
-        while(i < nums.length-1){
-            int j = i+1;
-            if(nums[i] == nums[j]){
-                i+=2;
-            }else{
-                return nums[i];
-            }
+        int si = 0;
+        int ei = nums.length-1;
+        
+        
+        while(si < ei){
+        int mid = si+(ei-si)/2;
+        if(mid%2 == 1){
+            mid--;
         }
-        return nums[nums.length - 1];
+           if(nums[mid] == nums[mid+1]){
+            si = mid+2;
+           }else{
+            ei = mid;
+           }
+        }
+        return nums[si];
     }
 }
