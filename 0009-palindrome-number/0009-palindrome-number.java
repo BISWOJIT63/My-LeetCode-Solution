@@ -1,10 +1,10 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        int y = 0;
-        int z = x;
-        if(z < 0){
+        if (x < 0 || (x % 10 == 0 && x != 0)) {
             return false;
         }
+        int y = 0;
+        int z = x;
         while(x > 0){
             int rem = x%10;
             y = (y*10)+rem;
