@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0050-powx-n) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3227-find-missing-and-repeated-values](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
