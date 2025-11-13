@@ -12,8 +12,12 @@ class Solution {
         return ans;
     }
     public static void findSol(char[][] board, int row,List<List<String>> ans){
-        if(board.length == row){ 
-            ans.add(construct(board));
+        if (row == board.length) {
+            List<String> solution = new ArrayList<>();
+            for (char[] rowArray : board) {
+                solution.add(new String(rowArray));
+            }
+            ans.add(solution);
             return;
         }
         for(int i = 0; i < board.length; i++){
@@ -41,20 +45,5 @@ class Solution {
             }
         }
         return true;
-    }
-     public static List<String> construct(char[][] board) {
-        List<String> list = new ArrayList<>();
-
-        for (int i = 0; i < board.length; i++) {
-            StringBuilder sb = new StringBuilder();
-            for (int j = 0; j < board.length; j++) {
-                if (board[i][j] == '.') sb.append('.');
-                else sb.append('Q');
-            }
-            list.add(sb.toString());
-        }
-
-        return list;
-    }
-    
+    }   
 }
