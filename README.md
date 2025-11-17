@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0042-trapping-rain-water) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
