@@ -1,35 +1,36 @@
 class Solution {
-    public boolean check(int[][] grid, int x, int y,boolean [][] isVisit,int n, int value){
-        //x row and y col
-        if(grid[x][y] == n*n-1){
+    public boolean checkValidGrid(int[][] grid) {
+        int row = 0;
+        int col = 0;
+        if(grid[0][0] != 0) return false;
+        for(int i = 0; i < grid.length; i++){
+            for(int j = 0; j < grid[i].length; j++){
+                if(grid[i][j] == 0){
+                    row = i;
+                    col = j;
+                }
+            }
+        }
+      return backtracking(grid,row,col,0);
+    }
+    public static boolean backtracking(int[][] grid , int row , int col,int val){
+        if((grid.length*grid.length)-1 == val){
             return true;
         }
-        int dx[] = {-2,-2,+2,+2,+1,-1,-1,+1};
-        int dy[] = {-1,+1,+1,-1,-2,-2,+2,+2};
-        for(int i =0; i < dx.length;i++){
-            int nextX = x+dx[i];
-            int nextY = y+dy[i];
-            if(isSafe( grid, nextX, nextY,isVisit,value+1,n)){
-                isVisit[nextX][nextY] = true;
-                if (check(grid, nextX, nextY, isVisit, n, value + 1)) {
-                    return true;
-                }
-                isVisit[nextX][nextY] = false;
+        int[] dirRow = {-1,-1,-2,2,1,1,-2,2};
+        int[] dirCol = {2,-2,1,1,2,-2,-1,-1};
+        for(int i = 0; i < 8; i++){
+            int nextRow = row+dirRow[i];
+            int nextCol = col+dirCol[i];
+            if(isSafe(grid,nextRow,nextCol,val+1)){
+                return backtracking(grid,nextRow,nextCol,val+1);
             }
         }
         return false;
     }
-    public boolean isSafe(int[][] grid,int x,int y,boolean [][]isVisit,int value,int n){
-        if((x >= 0 && y >= 0 && x < n && y < n && !isVisit[x][y]) && grid[x][y] == value) return true;
-        return false;
-    }
-    public boolean checkValidGrid(int[][] grid) {
-        int n = grid.length;
-        if(grid[0][0] != 0){
-            return false;
-        }
-        boolean [][] isVisit = new boolean[n][n]; 
-        isVisit[0][0] = true;
-        return check(grid,0,0,isVisit,n,0);
+    public static boolean isSafe(int[][] grid,int r, int c,int val){
+        return (r >= 0 && r < grid.length &&
+                c >= 0 && c < grid.length &&
+                grid[r][c] == val);
     }
 }
