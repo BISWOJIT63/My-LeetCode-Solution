@@ -1,17 +1,7 @@
 class Solution {
     public boolean checkValidGrid(int[][] grid) {
-        int row = 0;
-        int col = 0;
         if(grid[0][0] != 0) return false;
-        for(int i = 0; i < grid.length; i++){
-            for(int j = 0; j < grid[i].length; j++){
-                if(grid[i][j] == 0){
-                    row = i;
-                    col = j;
-                }
-            }
-        }
-      return backtracking(grid,row,col,0);
+      return backtracking(grid,0,0,0);
     }
     public static boolean backtracking(int[][] grid , int row , int col,int val){
         if((grid.length*grid.length)-1 == val){
