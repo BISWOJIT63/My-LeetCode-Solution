@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2662-check-knight-tour-configuration](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2662-check-knight-tour-configuration) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0069-sqrtx) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2288-count-operations-to-obtain-zero) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
