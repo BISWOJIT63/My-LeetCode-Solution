@@ -14,28 +14,23 @@ class Solution {
             return head;
         }
         ListNode temp = head;
+        ListNode tail = null;
         int c=0;
         while(temp != null){
+            tail = temp;
             c++;
             temp = temp.next;
         }
-        if(c < k) k = k%c;
-        System.out.println(k);
-       return recursion(head,k);
-    }
-    public ListNode recursion(ListNode head, int k) {
-        if(k == 0 ){
-            return head;
-        }
-        ListNode tail = head.next;
-        ListNode prev = head;
-        while(tail.next != null){
-            tail = tail.next;
-            prev = prev.next;
-        }
+        k = k%c;
+        int l = c - k - 1;
         tail.next = head;
-        head = tail;
-        prev.next = null;
-        return recursion(head, k-1) ;
+        temp = head;
+        while(l != 0){
+            temp = temp.next;
+            l--;
+        }
+        head = temp.next;
+        temp.next = null;
+        return head;
     }
 }
