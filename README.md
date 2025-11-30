@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0792-binary-search) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## String
@@ -203,12 +205,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
