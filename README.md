@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0443-string-compression) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0394-decode-string) |
 ## Greedy
 |  |
 | ------- |
