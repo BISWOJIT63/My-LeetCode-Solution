@@ -1,41 +1,32 @@
 class Solution {
-    public String decodeString(String s) {
-        Stack<Character> st = new Stack<>();
+    private int i = 0; //which represent to the current index it helps to track the string
 
-        for(int i = 0; i < s.length(); i++){
+    public String decodeString(String s) {
+        return solve(s);
+    }
+    public String solve(String s){
+        StringBuilder sb = new StringBuilder();
+        int num = 0;
+        while( i < s.length()){
             char ch = s.charAt(i);
-            if(ch != ']'){
-                st.push(ch);
-            }else{
-                //make a string to reapeat
-                StringBuilder sb = new StringBuilder();
-                while(st.size()>0 && st.peek() != '['){
-                    sb.insert(0,st.pop());
+            if(Character.isDigit(ch)){
+                i++;
+                num = num*10+(ch-'0');
+            }else if(Character.isLetter(ch)){
+                i++;
+                sb.append(ch);
+            }else if(ch == '['){
+                i++;
+                String result = solve(s);
+                while(num -- > 0){
+                    sb.append(result);
                 }
-                st.pop();
-                String repeatString = sb.toString();
-                
-                //make the number howmany times repeat
-                sb = new StringBuilder();
-                while(st.size()>0 && st.peek() >='0' & st.peek() <= '9'){
-                    sb.insert(0,st.pop());
-                }
-                int count = Integer.parseInt(sb.toString());
-                 
-                //repeat the string count times and push for next 
-                while(count -- > 0){
-                    for(int j = 0; j < repeatString.length();j++){
-                        char rChar = repeatString.charAt(j);
-                        st.push(rChar);
-                    }
-                }
+                num = 0;
+            }else if(ch == ']'){
+                i++;
+                return sb.toString();
             }
         }
-        StringBuilder ans = new StringBuilder();
-        while(st.size() > 0){
-            ans.append(st.pop());
-        }
-        ans.reverse();
-        return ans.toString();
+        return sb.toString();
     }
 }
