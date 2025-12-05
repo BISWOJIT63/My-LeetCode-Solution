@@ -1,29 +1,19 @@
 class Solution {
-    public int trap(int[] arr) {
-        int n = arr.length;
-        int wl = 0;
-        int left = 0, right = n-1;
-        int lMax = 0, rMax = 0;
-
-        while(left <= right){
-            if(arr[left] < arr[right]){
-                if(arr[left] < lMax){
-                    wl += lMax-arr[left];
-                    
-                }else{
-                    lMax = arr[left];
-                    
+    public int trap(int[] height) {
+        Stack<Integer> st = new Stack<>();
+        int res = 0;
+        for(int i = 0; i < height.length;i++){
+            while(!st.isEmpty() && height[st.peek()] < height[i]){
+                int pop_height = height[st.pop()];
+                if(st.isEmpty()){
+                    break;
                 }
-                left++;
-            }else{
-                if(arr[right] < rMax){
-                    wl += rMax-arr[right];
-                }else{
-                    rMax = arr[right];
-                }
-                right--;
+                int dis = i-st.peek()-1;
+                int min_height = Math.min(height[i],height[st.peek()])-pop_height;
+                res += min_height*dis;
             }
+            st.push(i);
         }
-        return wl;
+    return res;
     }
 }
