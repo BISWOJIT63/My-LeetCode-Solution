@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0622-design-circular-queue) |
 | [0792-binary-search](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0948-sort-an-array) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0622-design-circular-queue](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0622-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0908-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Math
@@ -334,4 +336,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
