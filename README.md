@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0232-implement-queue-using-stacks](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0496-next-greater-element-i) |
@@ -339,9 +340,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
