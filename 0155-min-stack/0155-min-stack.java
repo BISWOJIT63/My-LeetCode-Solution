@@ -4,11 +4,11 @@ class MinStack {
     public void push(int val) {
         
         if(st.isEmpty()){
-            st.push(new int[]{val,val});
-        }else{
-            int min = Math.min(val,st.peek()[1]);
-            st.push(new int[]{val,min});
+            st.push(new int[] {val,val});
+            return;
         }
+        int currMin=st.peek()[1];
+        st.push(new int[] {val,Math.min(val,currMin)});
     }
     
     public void pop() {
