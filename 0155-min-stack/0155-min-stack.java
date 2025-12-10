@@ -6,7 +6,7 @@ class MinStack {
         if(st.isEmpty()){
             st.push(new int[]{val,val});
         }else{
-            int min = Math.min(val,getMin());
+            int min = Math.min(val,st.peek()[1]);
             st.push(new int[]{val,min});
         }
     }
