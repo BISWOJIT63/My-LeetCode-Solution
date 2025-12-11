@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0901-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0901-online-stock-span) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0622-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -362,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0622-design-circular-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2073-time-needed-to-buy-tickets) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
