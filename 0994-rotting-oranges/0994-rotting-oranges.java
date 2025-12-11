@@ -14,6 +14,10 @@ class Solution {
             }
         }
 
+        //if there is no fresh orranges means 
+        if(fresh == 0) return 0;
+
+
         //track the total munites take to rooten
         int minutes = 0;
         //track how many fresh orranges are rotting
