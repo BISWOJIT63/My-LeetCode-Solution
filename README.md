@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0622-design-circular-queue) |
+| [0646-maximum-length-of-pair-chain](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [0792-binary-search](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0948-sort-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Stack
 |  |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
 ## String Matching
