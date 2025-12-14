@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1019-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1029-two-city-scheduling) |
 | [1041-available-captures-for-rook](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1041-available-captures-for-rook) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1019-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1029-two-city-scheduling) |
 | [1710-maximum-units-on-a-truck](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
+| [1029-two-city-scheduling](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1029-two-city-scheduling) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
 ## String Matching
