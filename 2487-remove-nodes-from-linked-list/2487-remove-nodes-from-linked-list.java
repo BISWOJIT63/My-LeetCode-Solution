@@ -10,22 +10,29 @@
  */
 class Solution {
     public ListNode removeNodes(ListNode head) {
-        Stack<ListNode> st = new Stack<>();
-        LinkedList<String> list = new LinkedList<>();
-        while(head != null){
-            while(!st.isEmpty() && head.val > st.peek().val){
-                st.pop();
+        head = reverse(head);
+        int max = 0;
+        ListNode prev = null;
+        ListNode cur = head;
+        while(cur != null){
+            if(max <= cur.val){
+                max = cur.val;
+                prev = cur;
+            }else{
+                prev.next = cur.next;
             }
-            st.push(head);
-            head = head.next;
+            cur = cur.next;
         }
-        if(st.isEmpty()) return null;
-        head = st.pop();
-        while(!st.isEmpty()){
-            ListNode node = head;
-            head = st.pop();
-            head.next = node;
+        return reverse(head);
+    }
+    public ListNode reverse(ListNode head){
+        ListNode prev = null;
+        while(head != null){
+            ListNode next = head.next;
+            head.next = prev;
+            prev = head;
+            head = next;
         }
-        return head;
+        return prev;
     }
 }
