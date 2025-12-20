@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -414,8 +416,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
