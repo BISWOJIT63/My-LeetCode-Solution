@@ -14,23 +14,21 @@
  * }
  */
 class Solution {
-    static List<Integer> ans = new ArrayList<>();
-    public static void inorder(TreeNode root){
+    public static void inorder(TreeNode root,List<Integer> ans){
             if(root == null){
                 return;
             }
             
             //left
-            inorder(root.left);
-            System.out.print(root.val+" ");
+            inorder(root.left,ans);
             ans.add(root.val);
             //right
-            inorder(root.right);
+            inorder(root.right,ans);
         }
     public List<Integer> inorderTraversal(TreeNode root) {
-        ans.clear();
-        if(root == null) return new ArrayList<>();
-        inorder(root);
+        List<Integer> ans = new ArrayList<>();
+        if(root == null) return ans;
+        inorder(root,ans);
         return ans;
     }
 }
