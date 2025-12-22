@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
@@ -416,12 +418,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
