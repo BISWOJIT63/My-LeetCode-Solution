@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0622-design-circular-queue) |
 | [0646-maximum-length-of-pair-chain](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
+| [0739-daily-temperatures](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0948-sort-an-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Indexed Tree
