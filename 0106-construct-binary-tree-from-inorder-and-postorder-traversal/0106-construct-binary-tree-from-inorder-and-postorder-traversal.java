@@ -17,21 +17,21 @@ class Solution {
     int idx;
     public TreeNode buildTree(int[] inorder, int[] postorder) {
         int n = inorder.length;
-        idx = n-1;
         HashMap<Integer,Integer> map = new HashMap<>();
         for(int i = 0; i < n; i++){
             map.put(inorder[i],i);
         }
-        return helper(postorder,0,n-1,map);
+        return helper(inorder,0,n-1,map,postorder,0,n-1);
     }
-    public TreeNode helper(int[] postorder,int st,int end,HashMap<Integer,Integer> map ){
-        if(st > end) return null;
-        int nodeVal = postorder[idx--];
+    public TreeNode helper(int[] inorder,int in_st,int in_end,HashMap<Integer,Integer> map,int[] postorder,int post_st,int post_end ){
+        if(in_st > in_end) return null;
+        int nodeVal = postorder[post_end];
         TreeNode newNode = new TreeNode(nodeVal);
         int nodeIdx = map.get(nodeVal);
+        int leftSize =  nodeIdx-in_st;
 
-        newNode.right = helper(postorder, nodeIdx+1,end,map);
-        newNode.left = helper(postorder,st,nodeIdx-1,map);
+        newNode.left = helper(inorder,in_st,nodeIdx-1,map,postorder,post_st,post_st+leftSize-1);
+        newNode.right = helper(inorder, nodeIdx+1,in_end,map,postorder,post_st+leftSize,post_end-1);
         return newNode;
     }
 }
