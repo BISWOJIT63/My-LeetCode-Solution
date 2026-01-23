@@ -14,35 +14,43 @@
  * }
  */
 class Solution {
+    public int height(TreeNode root){
+        if(root == null) return 0;
+        return 1+Math.max(height(root.left),height(root.right));
+    }
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> ans = new ArrayList<>();
         if(root == null ) return ans;
-        levelOrder(root,ans);
-        int i = 1;
-        for(List<Integer> innerList : ans){
-            if(i%2 == 0) Collections.reverse(innerList);
-            i++;
+
+        int level = height(root);
+
+        for(int i = 1; i <= level ;i++){
+            List<Integer> arr = new ArrayList<>();
+            if(i%2 == 0) {
+               levelOrderRL(root,i,arr);
+            }else{
+                levelOrderLR(root,i,arr);
+            }
+            ans.add(arr);
         }
         return ans;
     }
-    public void levelOrder(TreeNode root, List<List<Integer>> ans){
-        if(root == null) return;
-            List<Integer> l = new ArrayList<>();
-            Queue<TreeNode> q = new LinkedList<>();
-            q.add(root);
-            q.add(null);
-            while(!q.isEmpty()){
-                TreeNode curNode = q.remove();
-                if(curNode == null){
-                    ans.add(l);
-                    l = new ArrayList<>();
-                    if(q.isEmpty()) break;
-                    else q.add(null);
-                }else{
-                    l.add(curNode.val);
-                    if(curNode.left != null)q.add(curNode.left);
-                    if(curNode.right != null)q.add(curNode.right);
-                }
-            }
+    public void levelOrderRL(TreeNode root,int l ,List<Integer> arr){
+       if(root == null) return;
+       if(l == 1){
+         arr.add(root.val);
+         return;
+       }
+       levelOrderRL(root.right,l-1,arr);
+       levelOrderRL(root.left,l-1,arr);
+    }
+    public void levelOrderLR(TreeNode root,int l ,List<Integer> arr){
+       if(root == null) return;
+       if(l == 1){
+         arr.add(root.val);
+         return;
+       }
+       levelOrderLR(root.left,l-1,arr);
+       levelOrderLR(root.right,l-1,arr);
     }
 }
