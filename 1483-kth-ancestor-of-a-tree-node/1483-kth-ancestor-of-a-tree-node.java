@@ -3,17 +3,17 @@ class TreeAncestor {
     int[][] up ;
     public TreeAncestor(int n, int[] parent) {
         maxLog = (int)(Math.log(n)/Math.log(2))+1;
-        up = new int[n][maxLog];
+        up = new int[maxLog][n];
         for(int i = 0; i < n; i++){
-            up[i][0] = parent[i];
+            up[0][i] = parent[i];
         }
         for(int j = 1; j < maxLog ; j++){
             for(int i = 0; i < n; i++){
-                int node = up[i][j-1];
+                int node = up[j-1][i];
                 if(node == -1){
-                    up[i][j] = -1;
+                    up[j][i] = -1;
                 }else{
-                    up[i][j] = up[node][j-1];
+                    up[j][i] = up[j-1][node];
                 }
             }
         }
@@ -22,7 +22,7 @@ class TreeAncestor {
     public int getKthAncestor(int node, int k) {
         for(int  i = 0; i < maxLog; i++){
             if((k & (1 << i)) != 0){
-                node = up[node][i];
+                node = up[i][node];
             }
             if(node == -1) return -1;
         }
