@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2662-check-knight-tour-configuration](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Quickselect
 |  |
 | ------- |
