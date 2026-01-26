@@ -14,11 +14,17 @@
  * }
  */
 class Solution {
+
     public int rangeSumBST(TreeNode root, int low, int high) {
         if(root == null) return 0;
-        int sum = (root.val >= low && root.val <= high) ? root.val:0;
-        int leftSum = rangeSumBST(root.left, low, high);
-        int rightSum = rangeSumBST(root.right, low, high);
-        return sum+leftSum+rightSum;
+        // case1: both side
+        if(root.val > high){
+           return rangeSumBST(root.left,low,high);
+        }
+        //case3: right side
+        else if(root.val < low){
+         return rangeSumBST(root.right,low,high);            
+        }
+        return root.val+rangeSumBST(root.left,low,high)+rangeSumBST(root.right,low,high);
     }
 }
