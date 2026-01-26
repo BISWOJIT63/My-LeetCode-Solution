@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -515,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
