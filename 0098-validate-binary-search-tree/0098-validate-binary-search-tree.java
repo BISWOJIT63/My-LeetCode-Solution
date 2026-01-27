@@ -14,22 +14,14 @@
  * }
  */
 class Solution {
-    public boolean isSorted(List<Integer> ans){
-        for(int i = 0; i < ans.size()-1; i++){
-            if(ans.get(i) >= ans.get(i+1)) return false;
-        }
-        return true;
-    }
-    public void inorder(TreeNode root,List<Integer> ans){
-        if(root == null) return;
-        inorder(root.left,ans);
-        ans.add(root.val);
-        inorder(root.right,ans);
-    } 
-    public boolean isValidBST(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
+    public boolean checkIsValidBST( TreeNode root,TreeNode min,TreeNode max){
         if(root == null) return true;
-        inorder(root,ans);
-        return isSorted(ans);
+        if(min != null && min.val >= root.val) return false;
+        if(max != null && max.val <= root.val) return false;
+        return checkIsValidBST( root.left,min,root) && checkIsValidBST( root.right,root,max);
+    }
+    public boolean isValidBST(TreeNode root) {
+        if(root == null) return true;
+        return checkIsValidBST( root,null,null);
     }
 }
