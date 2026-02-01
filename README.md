@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0948-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0994-rotting-oranges) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1029-two-city-scheduling) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2487-remove-nodes-from-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2487-remove-nodes-from-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Indexed Tree
 |  |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Quickselect
@@ -543,4 +548,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
