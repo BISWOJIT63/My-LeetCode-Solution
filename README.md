@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
 | [2073-time-needed-to-buy-tickets](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2073-time-needed-to-buy-tickets) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2662-check-knight-tour-configuration](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2662-check-knight-tour-configuration) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3227-find-missing-and-repeated-values](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Quickselect
 |  |
 | ------- |
