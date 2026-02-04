@@ -18,29 +18,31 @@ public class Codec {
     }
     public void convertToString(TreeNode root,StringBuilder sb){
          if(root == null){
-            sb.append("n").append(",");
+            sb.append("n,");
         }else{
-            sb.append(root.val).append(",");
+            sb.append(root.val);
+            sb.append(",");
             convertToString(root.left,sb);
             convertToString(root.right,sb);
         }
     }
-
-    
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
-        Queue<String> q = new LinkedList<>();
-        q.addAll(Arrays.asList(data.split(",")));
-        return construct(q);
-    } 
-    public TreeNode construct(Queue<String> q){
-        String str = q.poll();
-        if(str.equals("n")){
+        String[] str = data.split(",");
+        return construct(str);
+    }
+    int i = 0;
+    public TreeNode construct(String[] str){
+        if(i >= str.length){
             return null;
         }
-        TreeNode root = new TreeNode(Integer.valueOf(str));
-        root.left = construct(q);
-        root.right = construct(q);
+        String val = str[i++];
+        if(val.equals("n")){
+            return null;
+        }
+        TreeNode root = new TreeNode(Integer.parseInt(val));
+        root.left = construct(str);
+        root.right = construct(str);
         return root;        
     }
 }
