@@ -1,50 +1,21 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        //find nextSmallerRight
-        int[] nsr = new int[heights.length];
-        Stack<Integer> s = new Stack<>();
-        for(int i = heights.length-1; i >=0 ; i--){
-            while(!s.isEmpty() && heights[i] <= heights[s.peek()]){
-                s.pop();
-            }
-            if(s.isEmpty() ){
-                nsr[i] = heights.length;
-            }else{
-                nsr[i] = s.peek();
-            }
-            s.push(i);
-        }        
-        //find nextSmallerLeft
-        int[] nsl = new int[heights.length];
-        s = new Stack<>();
-        for(int i = 0; i < heights.length ; i++){
-            while(!s.isEmpty() && heights[i] <= heights[s.peek()]){
-                
-                s.pop() ;
-            }
-            if(s.isEmpty()){
-                nsl[i] =-1 ;
-            }else{
-                nsl[i] =s.peek() ;
-            }
-            s.push(i);
-        }
-        print(nsr);
-        print(nsl);
-        int[] area = new int[heights.length];
-        int maxArea = 0;
+        Stack<Integer> st = new Stack<>();
+        int max = 0;
         for(int i = 0; i < heights.length; i++){
-            int h = heights[i];
-            int w = nsr[i]-nsl[i]-1;
-            area[i] = h*w;
-            maxArea = Math.max(area[i],maxArea);
+            while(!st.isEmpty() && heights[st.peek()] > heights[i]){
+                int idx = st.pop();
+                int pse = st.isEmpty() ? -1 : st.peek();
+                max= Math.max(heights[idx]*(i-(pse)-1),max);
+            }
+            st.push(i);
         }
-        return maxArea;
-    }
-    public static void print(int[] arr){
-        for(int n: arr){
-            System.out.print(n+" ");
+        while(!st.isEmpty()){
+            int idx = st.pop();
+            int pse = st.isEmpty() ? -1 : st.peek();
+            int nse = heights.length;
+            max= Math.max(heights[idx]*(nse-(pse)-1),max);
         }
-        System.out.println();        
+        return max;
     }
 }
