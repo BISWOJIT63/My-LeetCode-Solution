@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 ## Matrix
 |  |
 | ------- |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0948-sort-an-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0622-design-circular-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2073-time-needed-to-buy-tickets) |
@@ -576,4 +580,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0173-binary-search-tree-iterator) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
