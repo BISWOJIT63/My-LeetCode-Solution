@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0948-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1382-balance-a-binary-search-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2662-check-knight-tour-configuration](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2662-check-knight-tour-configuration) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1029-two-city-scheduling](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1029-two-city-scheduling) |
+| [1382-balance-a-binary-search-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
 ## String Matching
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1382-balance-a-binary-search-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -555,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1382-balance-a-binary-search-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Quickselect
@@ -576,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |
