@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0493-reverse-pairs](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0493-reverse-pairs) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1041-available-captures-for-rook) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0792-binary-search) |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
