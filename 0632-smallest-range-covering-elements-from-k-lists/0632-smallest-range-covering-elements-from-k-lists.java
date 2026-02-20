@@ -1,5 +1,5 @@
 class Solution {
-    public class MinHeap implements Comparable<MinHeap> {
+    public class MinHeap {
         int val, row, col;
 
         public MinHeap(int val, int row, int col) {
@@ -7,16 +7,11 @@ class Solution {
             this.row = row;
             this.col = col;
         }
-
-        @Override
-        public int compareTo(MinHeap h) {
-            return this.val - h.val;
-        }
     }
 
-    public PriorityQueue<MinHeap> pq = new PriorityQueue<>();
 
     public int[] smallestRange(List<List<Integer>> nums) {
+        PriorityQueue<MinHeap> pq = new PriorityQueue<>((a,b)->(a.val-b.val));
         int min = 0;
         int max = Integer.MIN_VALUE;
         int k = nums.size();
