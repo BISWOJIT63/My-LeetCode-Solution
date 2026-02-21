@@ -10,11 +10,11 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode ansHead = new ListNode();
-        ListNode ans = ansHead;
+        ListNode dummy = new ListNode();
+        ListNode curr = dummy;
         int total = 0;
         int carry = 0;
-        while(l1 != null || l2 != null || carry != 0){
+        while(l1 != null || l2 != null || carry != 0 ){
             total = carry;
             if(l1 != null){
                 total += l1.val;
@@ -25,10 +25,10 @@ class Solution {
                 l2 = l2.next;
             }
             int n = total%10;
-            ansHead.next = new ListNode(n);
-            ansHead = ansHead.next;
             carry = total/10;
+            curr.next = new ListNode(n);
+            curr = curr.next;
         }
-        return ans.next;
+        return dummy.next;
     }
 }
