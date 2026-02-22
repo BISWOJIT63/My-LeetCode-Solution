@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [0868-binary-gap](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
