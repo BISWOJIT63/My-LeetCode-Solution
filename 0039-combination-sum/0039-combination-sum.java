@@ -13,6 +13,7 @@ class Solution {
             return;
         }
         for(int i = cur; i < arr.length;i++){
+            if(t < arr[i]);
             l.add(arr[i]);
             backtracking(arr,t-arr[i],ans,l,i);
             l.remove(l.size()-1);
