@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2662-check-knight-tour-configuration](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2662-check-knight-tour-configuration) |
+| [2974-minimum-number-game](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2974-minimum-number-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1029-two-city-scheduling) |
 | [1710-maximum-units-on-a-truck](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
+| [2974-minimum-number-game](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2662-check-knight-tour-configuration](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2662-check-knight-tour-configuration) |
+| [2974-minimum-number-game](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2974-minimum-number-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
+| [2974-minimum-number-game](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
