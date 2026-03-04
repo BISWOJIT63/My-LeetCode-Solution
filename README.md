@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0258-add-digits) |
 | [1041-available-captures-for-rook](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1041-available-captures-for-rook) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2073-time-needed-to-buy-tickets) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0258-add-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2288-count-operations-to-obtain-zero) |
@@ -635,4 +637,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
