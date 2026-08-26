@@ -10,8 +10,8 @@ class Solution {
     }
 
     public void rotate(int[] arr, int k) {
-        while (k > arr.length) {
-            k = k - arr.length;
+        if (k > arr.length) {
+            k %= arr.length;
         }
         reverse(arr, 0, arr.length - 1 - k);
         reverse(arr, arr.length - k, arr.length - 1);
