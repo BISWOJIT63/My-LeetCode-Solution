@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
