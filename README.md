@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Counting
 |  |
 | ------- |
