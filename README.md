@@ -690,4 +690,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
