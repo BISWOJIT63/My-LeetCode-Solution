@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1029-two-city-scheduling) |
 | [1041-available-captures-for-rook](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1041-available-captures-for-rook) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
 | [1920-build-array-from-permutation](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1920-build-array-from-permutation) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1019-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1019-squares-of-a-sorted-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1029-two-city-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
 | [2974-minimum-number-game](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2974-minimum-number-game) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Bit Manipulation
