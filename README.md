@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0868-binary-gap](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -474,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
