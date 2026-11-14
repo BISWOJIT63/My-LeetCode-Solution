@@ -10,6 +10,7 @@ class Solution {
                 if(len >= l && len <= r && sum > 0){
                     ans = Math.min(ans,sum);
                 }
+                if(len > r) break;
             }
         }
         return ans==Integer.MAX_VALUE ? -1:ans;
