@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
+| [1833-maximum-ice-cream-bars](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2073-time-needed-to-buy-tickets) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1029-two-city-scheduling) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
+| [1833-maximum-ice-cream-bars](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [2974-minimum-number-game](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2974-minimum-number-game) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
+| [1833-maximum-ice-cream-bars](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String Matching
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0948-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 ## Doubly-Linked List
 |  |
 | ------- |
