@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1029-two-city-scheduling) |
 | [1041-available-captures-for-rook](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1041-available-captures-for-rook) |
 | [1267-count-servers-that-communicate](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
+| [1352-product-of-the-last-k-numbers](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Queue
 |  |
@@ -620,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1352-product-of-the-last-k-numbers) |
 ## Tree
 |  |
 | ------- |
