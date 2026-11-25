@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2662-check-knight-tour-configuration](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2662-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1833-maximum-ice-cream-bars) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2974-minimum-number-game](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2974-minimum-number-game) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/1833-maximum-ice-cream-bars) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String Matching
