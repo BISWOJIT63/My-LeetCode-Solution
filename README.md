@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2662-check-knight-tour-configuration](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2662-check-knight-tour-configuration) |
 | [2974-minimum-number-game](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2974-minimum-number-game) |
+| [3360-stone-removal-game](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3360-stone-removal-game](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3360-stone-removal-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/BISWOJIT63/My-LeetCode-Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
